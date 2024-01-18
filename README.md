@@ -29,8 +29,8 @@ Je propose une gamme complète de services, notamment :
 
 Pour en savoir plus sur mes services ou pour une consultation, n'hésitez pas à me contacter :
 
-- **Email** : [sandrine.fabre@email.com](mailto:sandrine.fabre@email.com)
-- **Téléphone** : +33 1 23 45 67 89
+- **Email** : [contact@solutions-rh13.fr](mailto:sandrine.fabre@email.com)
+- **Téléphone** : +33 6 13 73 03 12
 - **LinkedIn** : [linkedin.com/in/sandrinefabre](https://www.linkedin.com/in/sandrinefabre)
 
 ---
