@@ -33,12 +33,8 @@ Pour en savoir plus sur mes services ou pour une consultation, n'hésitez pas à
 - **Téléphone** : +33 6 13 73 03 12
 - **LinkedIn** : [linkedin.com/in/sandrinefabre](https://www.linkedin.com/in/sandrinefabre)
 
+![](signature.jpg)
+
 ---
 
 © 2024 Sandrine Fabre. Tous droits réservés.
-
-<style>
-  .footer {
-    display: none;
-  }
-</style>
