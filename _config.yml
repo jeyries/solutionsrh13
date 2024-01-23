@@ -1,2 +1,27 @@
-theme: jekyll-theme-tactile
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
 
+url: http://www.solutions-rh13.fr
+title: Solutions RH 13
+email: contact@solutions-rh13.fr
+author: Sandrine Fabre
+description: > # "Write an awesome description for your new site here. 
+  Consultante en Recrutement, Ressources Humaines et Gestion Administrative
+copyright: 'Copyright &copy; 2024  Solutions RH 13. All Rights Reserved.'
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: linkedin
+    url: https://www.linkedin.com/in/sandrinefabre

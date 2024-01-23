@@ -1,0 +1,12 @@
+---
+layout: default
+img: ipad.png
+category: Services
+title: Services
+description: |
+---
+  Je propose une gamme complète de services, notamment :
+
+- **Recrutement et Sélection** : Identification et attraction des meilleurs talents, entretiens et évaluations.
+- **Conseil en Ressources Humaines** : Stratégies personnalisées pour la gestion des talents et le développement organisationnel.
+- **Gestion Administrative** : Optimisation des processus administratifs pour une efficacité accrue.

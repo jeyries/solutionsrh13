@@ -1,40 +1,35 @@
+# Landing Page Jekyll theme
 
-# Sandrine Fabre
+Jekyll theme based on [landing-page bootstrap theme ](http://startbootstrap.com/templates/landing-page/)
 
-## Consultante en Recrutement, Ressources Humaines et Gestion Administrative
+## How to use
+ - Place a image in `/img/services/`
+ - Create posts to display your services. Use the follow as an example:
 
+```txt
 ---
-
-Bienvenue sur mon site professionnel. Forte d'une expérience approfondie dans le domaine des ressources humaines, du recrutement et de la gestion administrative, je suis dédiée à aider les entreprises à optimiser leurs processus de recrutement et à gérer efficacement leurs ressources humaines.
-
-### À propos de moi
-
-Avec une carrière riche et diversifiée dans le domaine des ressources humaines, je possède une expertise particulière dans le recrutement, la gestion des talents et la stratégie de développement des ressources humaines. Ma passion est d'aider les entreprises à trouver et à développer les meilleurs talents tout en optimisant leurs processus internes.
-
-### Services
-
-Je propose une gamme complète de services, notamment :
-
-- **Recrutement et Sélection** : Identification et attraction des meilleurs talents, entretiens et évaluations.
-- **Conseil en Ressources Humaines** : Stratégies personnalisées pour la gestion des talents et le développement organisationnel.
-- **Gestion Administrative** : Optimisation des processus administratifs pour une efficacité accrue.
-
-### Pourquoi travailler avec moi ?
-
-- **Expertise Approfondie** : Plusieurs années d'expérience dans le secteur des RH.
-- **Approche Personnalisée** : Solutions sur mesure adaptées aux besoins spécifiques de votre entreprise.
-- **Résultats Mesurables** : Engagement envers l'excellence et l'amélioration continue.
-
-### Contact
-
-Pour en savoir plus sur mes services ou pour une consultation, n'hésitez pas à me contacter :
-
-- **Email** : [contact@solutions-rh13.fr](mailto:sandrine.fabre@email.com)
-- **Téléphone** : +33 6 13 73 03 12
-- **LinkedIn** : [linkedin.com/in/sandrinefabre](https://www.linkedin.com/in/sandrinefabre)
-
-![](signature.jpg)
-
+layout: default
+img: ipad.png
+category: Services
+title: The service title
 ---
+The description of this service
+```
 
-© 2024 Sandrine Fabre. Tous droits réservés.
+## Demo
+View this jekyll theme in action [here](https://swcool.github.io/landing-page-theme)
+
+## Screenshot
+![screenshot](https://raw.githubusercontent.com/swcool/landing-page-theme/master/img/screenshot.png)
+
+===
+
+For more Jekyll details, read [documentation](http://jekyllrb.com/).
+This Jekyll theme used [Freelancer Jekyll theme](https://github.com/jeromelachaud/freelancer-theme/) as reference.
+
+## License
+The contents of this repository are licensed under the [Apache
+2.0](http://www.apache.org/licenses/LICENSE-2.0.html).
+
+## Version
+1.0.1

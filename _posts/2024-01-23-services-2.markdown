@@ -1,0 +1,11 @@
+---
+layout: default
+img: dog.png
+category: Services
+title: Pourquoi travailler avec moi 
+description: |
+---
+
+- **Expertise Approfondie** : Plusieurs années d'expérience dans le secteur des RH.
+- **Approche Personnalisée** : Solutions sur mesure adaptées aux besoins spécifiques de votre entreprise.
+- **Résultats Mesurables** : Engagement envers l'excellence et l'amélioration continue.
