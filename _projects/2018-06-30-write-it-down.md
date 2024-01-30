@@ -2,7 +2,7 @@
 title: 'Gestion Administrative'
 subtitle: 'Lire la suite'
 date: 2018-06-30 00:00:00
-description: Analyse détaillée de votre structure administrative actuelle. Identification des opportunités d'optimisation des processus.
+description: La gestion administrative peut rapidement devenir un poids financier et une cause de stress. Solutions RH 13 vous offre des approches concrètes pour améliorer et mettre en œuvre des pratiques plus efficaces. En optant pour nos solutions, vous pourrez optimiser votre gestion administrative, alléger la charge financière qui en découle et réduire le stress associé.
 featured_image: '/images/work-02_dossiers.jpg'
 ---
 
