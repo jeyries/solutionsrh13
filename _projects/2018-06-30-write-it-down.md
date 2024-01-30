@@ -2,7 +2,7 @@
 title: 'Gestion Administrative'
 subtitle: 'Lire la suite'
 date: 2018-06-30 00:00:00
-description: La gestion administrative peut rapidement devenir un fardeau financier et une source de stress. Les problèmes administratifs, tels que des processus complexes ou inefficaces, peuvent affecter négativement la santé financière d'une entreprise et générer des tensions inutiles. Il est crucial d'explorer des approches et des méthodes visant à simplifier et améliorer ces processus pour réduire les coûts et minimiser le stress associé.
+description: La gestion administrative peut devenir pesante et stressante, impactant la santé financière. Des processus complexes peuvent causer des problèmes. Il est essentiel de simplifier et d'améliorer ces aspects pour alléger les coûts et apaiser les tensions financières.
 featured_image: '/images/work-02_dossiers.jpg'
 ---
 
