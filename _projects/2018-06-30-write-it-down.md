@@ -2,7 +2,7 @@
 title: 'Session Découverte '
 subtitle: 'Lire la suite'
 date: 2018-06-30 00:00:00
-description: L'objectif de cette session de 30 mn gratuite est de vous offrir un aperçu initial de la manière dont mon expertise peut contribuer à l'amélioration de votre entreprise. Les points que nous pourrions aborder durant cette séance pourraient inclure
+description: L'objectif de cette session de 30 mn gratuite est de vous offrir un aperçu initial de la manière dont mon expertise peut contribuer à l'amélioration de votre entreprise. Les points aborder durant cette séance pourraient inclure
 featured_image: '/images/work-01-sablier.jpg'
 ---
 
