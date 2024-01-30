@@ -1,6 +1,6 @@
 ---
-title: 'Évaluation Approfondie'
-subtitle: 'Gestion Administrative'
+title: 'Gestion Administrative'
+subtitle: 'Lire la suite'
 date: 2018-06-30 00:00:00
 description: Analyse détaillée de votre structure administrative actuelle. Identification des opportunités d'optimisation des processus.
 featured_image: '/images/work-02_dossiers.jpg'
