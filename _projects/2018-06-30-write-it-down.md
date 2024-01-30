@@ -6,10 +6,6 @@ description: La gestion administrative peut devenir pesante et stressante, impac
 featured_image: '/images/work-02_dossiers.jpg'
 ---
 
-Il est crucial d'explorer des approches et des méthodes visant à simplifier et améliorer ces processus pour réduire les coûts et minimiser le stress associé :
-
-
-
 Gestion Administrative Personnalisée pour votre Entreprise
 
 
