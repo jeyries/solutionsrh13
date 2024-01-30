@@ -1,8 +1,8 @@
 ---
-title: 'Edith magazine'
-subtitle: 'Print design'
+title: 'Recrutement et Stratégie'
+subtitle: 'Lisez la suite'
 date: 2018-06-28 00:00:00
-description: We’ve included everything you need to create engaging posts about your work, and show off your case studies in a beautiful way – check out a single post to see!
+description: Si vous êtes confronté(e) à des difficultés dans votre processus de recrutement, notre solution personnalisée est conçue pour apporter des réponses spécifiques à vos préoccupations.
 featured_image: '/images/demo/work-03.jpg'
 ---
 
