@@ -3,7 +3,7 @@ title: 'Évaluation Approfondie'
 subtitle: 'Gestion Administrative'
 date: 2018-06-30 00:00:00
 description: Analyse détaillée de votre structure administrative actuelle. Identification des opportunités d'optimisation des processus.
-featured_image: '/images/work-01-sablier.jpg'
+featured_image: '/images/travail-02_dossiers.jpg'
 ---
 
 Services de Gestion Administrative Personnalisée pour votre Entreprise
