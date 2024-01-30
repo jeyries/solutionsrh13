@@ -3,7 +3,7 @@ title: 'Session Découverte '
 subtitle: 'Lire la suite'
 date: 2018-06-30 00:00:00
 description: L'objectif de cette session de 30 mn est de vous offrir un aperçu initial de la manière dont mon expertise peut contribuer à l'amélioration de votre entreprise. Les points à aborder durant cette séance pourraient inclure
-featured_image: '/images/work-02_dossiers.jpg'
+featured_image: '/images/work-01-sablier.jpg'
 ---
 
 * Gestion Administrative :
