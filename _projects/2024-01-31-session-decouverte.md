@@ -2,8 +2,7 @@
 title: 'Session Découverte '
 subtitle: 'Lire la suite'
 date: 2024-01-31 00:00:00
-description: Engagez-vous pour le Succès de Votre Entreprise.
-Profitez d'une session de consultation gratuite de 30 minutes. Comprenez vos besoins spécifiques, discutez des défis de votre entreprise et recevez des solutions personnalisées...
+description: Engagez-vous pour le Succès de Votre Entreprise. Profitez d'une session de consultation gratuite de 30 minutes. Comprenez vos besoins spécifiques, discutez des défis de votre entreprise et recevez des solutions personnalisées...
 featured_image: '/images/work-01-sablier.jpg'
 ---
 
