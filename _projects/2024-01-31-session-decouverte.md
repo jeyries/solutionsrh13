@@ -2,7 +2,9 @@
 title: 'Session Découverte '
 subtitle: 'Lire la suite'
 date: 2024-01-31 00:00:00
-description: L'objectif de cette session de 30 mn gratuite est de vous offrir un aperçu initial de la manière dont mon expertise peut contribuer à l'amélioration de votre entreprise. Les points aborder durant cette séance pourraient inclure
+description: Session Gratuite de 30 minutes : Découvrez des Solutions RH sur Mesure
+
+Profitez d'une session de consultation gratuite de 30 minutes avec nos experts en ressources humaines. Comprenez vos besoins spécifiques, discutez des défis de votre entreprise et recevez des solutions personnalisées.
 featured_image: '/images/work-01-sablier.jpg'
 ---
 
