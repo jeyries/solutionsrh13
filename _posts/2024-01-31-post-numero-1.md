@@ -1,7 +1,7 @@
 ---
-title: 'Les Avantages du Recrutement de Profils Atypiques'
+title: 'Recrutement de Profils Atypiques'
 date: 2018-06-30 00:00:00
-description: 🚀 Valorisez l'innvation
+description: 🚀 Valorisez l'innovation, Les Avantages du Recrutement de Profils Atypiques, Inspirés par l'Histoire de Sylvie, CTO Autodidacte" 
 featured_image: '/images/demo/blog-02.jpg'
 ---
 
