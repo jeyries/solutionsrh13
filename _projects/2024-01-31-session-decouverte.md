@@ -15,4 +15,4 @@ Si cette proposition suscite votre intérêt. Inscrivez-vous maintenant pour vot
 
 Je reste persuadé que cette session pourrait fournir des solutions pertinentes et ouvrir la voie à une collaboration bénéfique.
 
-https://calendly.com/contact-udi/30min?month=2024-02
+
