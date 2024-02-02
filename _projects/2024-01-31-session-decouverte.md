@@ -14,3 +14,5 @@ featured_image: '/images/work-01-sablier.jpg'
 Si cette proposition suscite votre intérêt. Inscrivez-vous maintenant pour votre session gratuite de 30 minutes et explorez des solutions RH taillées pour propulser votre entreprise vers le succès. 
 
 Je reste persuadé que cette session pourrait fournir des solutions pertinentes et ouvrir la voie à une collaboration bénéfique.
+
+https://formspree.io/f/xyyregyr
