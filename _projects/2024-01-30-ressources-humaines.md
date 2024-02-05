@@ -2,7 +2,7 @@
 title: 'Ressources Humaines et Gestion Administrative'
 
 subtitle: 'Lire la suite'
-date: 2018-06-29 00:00:00
+date: 2024-01-30 00:00:00
 description: La gestion administrative peut devenir pesante et stressante, impactant la santé financière. Des processus complexes peuvent causer des problèmes. Il est essentiel de simplifier et d'améliorer ces aspects pour alléger les coûts et apaiser les tensions financières.
 featured_image: '/images/work-02-dossiers.jpg'
 ---
