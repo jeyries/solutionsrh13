@@ -11,7 +11,7 @@ featured_image: '/images/work-01-sablier.jpg'
 * Cette approche personnalisée vise à optimiser la gestion de vos ressources humaines tout en surmontant les obstacles uniques auxquels votre entreprise fait face.
 
 
-Si cette proposition suscite votre intérêt. Inscrivez-vous maintenant pour votre session gratuite de 30 minutes et explorez des solutions RH taillées pour propulser votre entreprise vers le succès. 
+Si cette proposition suscite votre intérêt. Inscrivez-vous maintenant pour votre session gratuite de 30 minutes et explorez des solutions taillées pour propulser votre entreprise vers le succès. 
 
 Je reste persuadé que cette session pourrait fournir des solutions pertinentes et ouvrir la voie à une collaboration bénéfique.
 
