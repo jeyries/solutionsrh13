@@ -1,5 +1,5 @@
 ---
-title: '🚀 Révolutionnez votre Gestion Administrative et RH avec Efficacité et Sérénité ! 🌐💼'
+title: 'Révolutionnez votre Gestion Administrative et RH avec Efficacité et Sérénité ! 🌐💼'
 
 subtitle: 'Lire la suite'
 date: 2024-01-30 00:00:00
