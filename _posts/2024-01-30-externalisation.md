@@ -1,7 +1,7 @@
 ---
 title: " Externalisation : Le Traitement Antistress des PME"
 subtitle: 'Lire la suite'
-date: 2024-02-02 00:00:00
+date: 2024-01-30 00:00:00
 description: "Les PME sont confrontées à des défis constants, notamment la pression pour réduire les coûts tout en restant compétitifs. L'externalisation est devenue une stratégie de plus en plus courante pour alléger ce fardeau."
 featured_image: '/images/blog-04-pme.jpg'
 ---
