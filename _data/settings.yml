@@ -11,9 +11,9 @@ menu_settings:
     - title: 'Services'
       url: '/'
     - title: 'Conseils'
-      url: '/conseils/'
+      url: '/blog/'
     - title: 'A propos'
-      url: '/a propos'
+      url: '/about'
     - title: 'Contact'
       url: '/contact'
 
