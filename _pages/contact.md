@@ -2,7 +2,7 @@
 title: Contact
 subtitle: 
 description: 
-featured_image: '/images/contact-mail.jpg'
+featured_image: '/images/contact-mail2.jpg'
 
 ---
 
