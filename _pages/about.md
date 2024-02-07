@@ -12,11 +12,12 @@ Mon approche ? Une gestion d'entreprise moins stressante, imprégnée d'une touc
 
 Si vous ressentez le désir d'explorer de nouvelles opportunités pour votre entreprise, je vous encourage vivement à planifier un RDV découverte. 
 Envoyez-moi un message, et ensemble, discutons de la manière dont je peux contribuer à votre prochaine étape professionnelle. 
+
 N'hésitez pas à réserver une session découverte gratuite de 30 minutes pour découvrir comment nous pouvons travailler ensemble à l'épanouissement de votre entreprise.
 
+Pour réserver une session, cliquez sur ce lien: [Calendly](https://calendly.com/solutions-rh13/30min)
 
 
 
-Mon LinkedIn :
 
-<a href="https://www.linkedin.com/in/sandrinefabre/" class="button button--large">LinkedIn</a>
+
