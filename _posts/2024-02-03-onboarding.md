@@ -3,10 +3,11 @@ title: "Onboarding, une étape trop souvent négligée 🤔"
 subtitle: 'Lire la suite'
 date: 2024-02-03 00:00:00
 description: "Contrat signé 😃 , vous êtes ravi d'avoir trouvé la perle rare. C'est à ce moment précis que beaucoup d'entreprises négligent l'intégration 😐 ."
-featured_image: "/images/blog-06-onboarding.jpg"
+featured_image: '/images/blog-06-onboarding.jpg'
 ---
 
-D'après une étude seulement 12% des salariés sont satisfaits de l'onboarding, ce qui est vraiment peu. Les points négatifs d'une mauvaise intégration ne sont pas à prendre à la légère.
+D'après une étude seulement 12% des salariés sont satisfaits de l'onboarding, ce qui est vraiment peu. 
+Les points négatifs d'une mauvaise intégration ne sont pas à prendre à la légère.
 Quelques exemples:
 
 
