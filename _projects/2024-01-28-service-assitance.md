@@ -1,8 +1,8 @@
 ---
-title: "Service d'Assistance Administrative Personnalisée pour Particuliers, Entreprises et Comités d'Entreprise (CE)"
+title: "Service d'Assistance Administrative Personnalisée"
 subtitle: 'Lire la suite'
 date: 2024-01-28 00:00:00
-description: "Vous êtes souvent confronté aux complexités administratives liées à la retraite, aux dossiers médicaux, à la MDPH et à la gestion des documents, que vous soyez particulier, entreprise un CE?" 
+description: "Vous êtes souvent confronté aux complexités administratives liées, à la gestion des documents, aux services administratifs, que vous soyez particulier, entreprise un CE?" 
 featured_image: '/images/work-03-contrat.jpg'
 ---
 
