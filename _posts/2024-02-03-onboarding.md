@@ -1,8 +1,8 @@
 ---
-title: "Onboarding, une étape trop souvent négligée 🤔"
+title: "Onboarding, une étape trop souvent négligée "
 subtitle: 'Lire la suite'
 date: 2024-02-03 00:00:00
-description: "Contrat signé 😃 , vous êtes ravi d'avoir trouvé la perle rare. C'est à ce moment précis que beaucoup d'entreprises négligent l'intégration 😐 ."
+description: "Contrat signé , vous êtes ravi d'avoir trouvé la perle rare. C'est à ce moment précis que beaucoup d'entreprises négligent l'intégration."
 featured_image: '/images/blog-06-onboarding.jpg'
 ---
 
