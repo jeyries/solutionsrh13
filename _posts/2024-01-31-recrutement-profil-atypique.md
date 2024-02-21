@@ -35,7 +35,8 @@ Son parcours démontre la valeur des compétences et de l'expérience au-delà d
 Conclusion :
 L'histoire inspirante de Sylvie met en lumière les avantages indéniables du recrutement de profils atypiques. 
 En embrassant la diversité de parcours, vous favorisez une culture d'entreprise dynamique, propice à l'innovation et à la réussite. 
-Si vous souhaitez explorer ces opportunités, ou discuter de stratégies de recrutement adaptées à votre entreprise, 
+Si vous souhaitez explorer ces opportunités, ou discuter de stratégies de recrutement adaptées à votre entreprise.
+
 N'hésitez pas à me contacter: 
 ☎ : 06.13.73.03.12 ou 📩 contact@solutions-rh13.fr 
 
