@@ -1,7 +1,7 @@
 ---
 title: 'Recrutement de Profils Atypiques'
 subtitle: 'Lire la suite'
-date: 2024-01-31 00:00:00
+date: 31-01-2024 00:00:00
 description: Valorisez l'innovation, Les Avantages du Recrutement de Profils Atypiques, Inspirés par l'Histoire de Sylvie, CTO Autodidacte" 
 featured_image: '/images/blog-01-atypique.jpg'
 ---
