@@ -1,10 +1,11 @@
 ---
-title: "Assistance Administrative aux Particuliers "
+title: " Assistance Administrative aux Particuliers "
 subtitle: 'Lire la suite'
 date: 2024-01-28 00:00:00
 description: "Vous êtes souvent confronté aux complexités administratives liées, à la gestion des documents, aux administrations" 
 featured_image: '/images/work-03-contrat.jpg'
 ---
+
 Organisation des documents :
 
 * Je vous aide à mettre en place des systèmes de classement pour vos factures, contrats, etc.
