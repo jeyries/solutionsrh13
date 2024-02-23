@@ -1,9 +1,9 @@
 ---
-title: " Optimiser la Communication Interne:: Outils et Bonnes Pratiques."
+title: " Optimiser la Communication Interne: Outils et Bonnes Pratiques."
 subtitle: 'Lire la suite'
 date: 2024-02-05 00:00:00
 description: " La communication interne efficace ne se limite pas à l'utilisation d'outils modernes."
-featured_image: '/images/blog-08-retard-communication.jpg'
+featured_image: '/images/blog-08-communication.jpg'
 ---
 Introduction :
 
