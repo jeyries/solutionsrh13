@@ -1,7 +1,7 @@
 ---
 title: " Stratégies pour Réduire les Retards de Paiement."
 subtitle: 'Lire la suite'
-date: 2024-01-30 00:00:00
+date: 2024-02-04 00:00:00
 description: " Les retards de paiement ne sont pas simplement des problèmes financiers, mais des obstacles à la croissance."
 featured_image: '/images/blog-07-retard-paiement.jpg'
 ---
