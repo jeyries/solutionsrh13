@@ -2,7 +2,7 @@
 title: 'La Puissance du Recul'
 subtitle: 'Lire la suite'
 date: 31-01-2024 00:00:00
-description: "Comment Prendre du Recul Transforme Votre Perspective. La vie professionnelle peut être intense"
+description: "Comment Prendre du Recul Transforme Votre Perspective. La vie professionnelle peut être intense."
 
 featured_image: '/images/blog-01-atypique.jpg'
 
