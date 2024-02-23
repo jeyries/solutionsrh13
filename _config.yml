@@ -13,6 +13,10 @@ collections:
   projects:
     output: true
     permalink: /project/:slug
+  projects:
+    output: true
+    permalink: /tarifs/:slug
+  
 
 defaults:
   -
@@ -38,7 +42,14 @@ defaults:
       type: "projects"
     values:
       layout: "project"
+  -
+    scope:
+      path: ""
+      type: "tarifs"
+    values:
+      layout: "tarifs"
 
+      
 markdown: kramdown
 
 kramdown:
