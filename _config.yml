@@ -38,9 +38,7 @@ defaults:
       path: ""
       type: "projects"
     values:
-      layout: "project"
-
-      
+      layout: "project" 
 markdown: kramdown
 
 kramdown:
