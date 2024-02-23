@@ -12,12 +12,14 @@ menu_settings:
       url: '/'
     - title: 'Conseils'
       url: '/blog/'
+    - title: 'Tarifs'
+      url: '/tarifs/'
     - title: 'A propos'
       url: '/about'
     - title: 'Contact'
       url: '/contact'
     
-    
+
 footer_settings:
   footer_tagline: Sandrine FABRE, Consultante en Recrutement, Ressources Humaines et Gestion Administrative
 
