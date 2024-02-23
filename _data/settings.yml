@@ -12,8 +12,6 @@ menu_settings:
       url: '/'
     - title: 'Conseils'
       url: '/blog/'
-    - title: 'Tarifs'
-      url: '/tarifs/'
     - title: 'A propos'
       url: '/about'
     - title: 'Contact'
