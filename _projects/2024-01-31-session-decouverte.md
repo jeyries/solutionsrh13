@@ -15,6 +15,7 @@ Si cette proposition suscite votre intérêt. Inscrivez-vous maintenant pour vot
 
 Je reste persuadé que cette session pourrait fournir des solutions pertinentes et ouvrir la voie à une collaboration bénéfique.
 
-Pour réserver une session, cliquez sur ce lien: [Calendly](https://calendly.com/solutions-rh13/30min)
+Pour réserver une session, cliquez ici: 
 
+<a href="https://calendly.com/solutions-rh13/30min" class="button button--large">Calendly</a>
 
