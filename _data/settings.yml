@@ -12,10 +12,10 @@ menu_settings:
       url: '/'
     - title: 'Conseils'
       url: '/blog/'
-    - title: 'A propos'
-      url: '/about'
     - title: 'Tarifs'
       url: '/tarifs'
+    - title: 'A propos'
+      url: '/about'
     - title: 'Contact'
       url: '/contact'
     
