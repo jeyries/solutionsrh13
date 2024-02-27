@@ -14,6 +14,8 @@ menu_settings:
       url: '/blog/'
     - title: 'A propos'
       url: '/about'
+    - title: 'Tarifs'
+      url: '/tarifs'
     - title: 'Contact'
       url: '/contact'
     
