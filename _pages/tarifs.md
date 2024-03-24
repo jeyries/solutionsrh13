@@ -1,5 +1,5 @@
 ---
-title: Gestion Administrative et RH sur Mesure.
+title: Tarifs et Forfaits.
 subtitle: Dans le monde dynamique de l'entreprise, la gestion administrative reste un défi de taille, malgré son importance capitale pour le bon fonctionnement quotidien des organisations. Si vous vous sentez submergé par la paperasse et les tâches administratives, ne vous inquiétez pas, je suis là pour vous offrir une solution sur mesure. Avec mes services spécialisés en ressources humaines et en gestion administrative, je vous propose une approche efficace pour optimiser vos opérations. Découvrez ci-dessous un aperçu de mes offres, tarifs et options de forfaits conçus pour répondre à vos besoins spécifiques.
 description:  
 featured_image: /images/demo/about.jpg
