@@ -9,17 +9,17 @@ Services de Gestion Administrative :
 
 ° Gestion de la correspondance : Réponse aux e-mails, gestion des appels téléphoniques, et tri du courrier.
 
-* Organisation de l'emploi du temps : Planification des réunions, réservation de voyages, et gestion des agendas.
+° Organisation de l'emploi du temps : Planification des réunions, réservation de voyages, et gestion des agendas.
 
-* Gestion de documents : Création, mise en forme et archivage de documents professionnels.
+° Gestion de documents : Création, mise en forme et archivage de documents professionnels.
 
-* Suivi des paiements : Facturation, relances clients, et gestion des dépenses.
+° Suivi des paiements : Facturation, relances clients, et gestion des dépenses.
 
-* Support administratif général : Toutes autres tâches administratives selon vos besoins spécifiques.
+° Support administratif général : Toutes autres tâches administratives selon vos besoins spécifiques.
 
 ## Tarifs et Forfaits:
 
- * Taux horaire : 40 euros
+ ° Taux horaire : 40 euros
 
 ## Services de Gestion Administrative :
 
