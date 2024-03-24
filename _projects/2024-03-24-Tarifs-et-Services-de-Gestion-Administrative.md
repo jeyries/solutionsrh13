@@ -6,7 +6,8 @@ description: "la gestion administrative est souvent un défi majeur. Cependant, 
 featured_image: '/images/work-03-contrat.jpg'
 ---
 Services de Gestion Administrative :
-* Gestion de la correspondance : Réponse aux e-mails, gestion des appels téléphoniques, et tri du courrier.
+
+° Gestion de la correspondance : Réponse aux e-mails, gestion des appels téléphoniques, et tri du courrier.
 
 * Organisation de l'emploi du temps : Planification des réunions, réservation de voyages, et gestion des agendas.
 
