@@ -27,6 +27,10 @@ Services de Gestion Administrative :
 |-----------|-----------------|------------------|
 | Essentiel | 10 heures/mois      | 550 €    |
 | ⁠Standard  | 20 heures/mois  | 950 €   | 
-| ⁠Avancé    | 30 heures/mois    | 1400 €  |
+| ⁠Premium   | 40 heures/mois    | 1450 €  |
 
+N'hésitez pas à me contacter pour discuter de vos besoins en gestion administrative et pour choisir le forfait qui convient le mieux à votre entreprise. 
+Je suis là pour vous aider à simplifier vos opérations administratives et à libérer votre temps pour les activités essentielles à la croissance de votre entreprise.
+
+<a href="https://calendly.com/solutions-rh13/30min" class="button button--large">Calendly</a>
 
