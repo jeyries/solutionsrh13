@@ -2,7 +2,7 @@
 title: " Assistance Administrative aux Particuliers "
 subtitle: 'Lire la suite'
 date: 2024-01-28 00:00:00
-description: "Vous êtes souvent confronté aux complexités administratives liées, à la gestion des documents, aux administrations" 
+description: "Vous êtes souvent confronté aux complexités administratives liées, à la gestion des documents, aux administrations, et les rendez-vous médicaux" 
 featured_image: '/images/work-07-particulier.jpg'
 ---
 * Organisation des documents :
