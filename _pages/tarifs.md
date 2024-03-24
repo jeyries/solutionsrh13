@@ -1,6 +1,6 @@
 ---
 title: Tarifs
-subtitle: Dans le monde de l'entreprise, la gestion administrative est souvent un défi majeur. Cependant, elle est cruciale pour assurer le bon fonctionnement quotidien de toute organisation. Si vous vous trouvez dépassé par la paperasse et les tâches administratives, je suis là pour vous aider.  Voici un aperçu de mes services de gestion administrative, ainsi que mes tarifs et options de forfaits
+subtitle: Dans le monde de l'entreprise, la gestion administrative est souvent un défi majeur. Cependant, elle est cruciale pour assurer le bon fonctionnement quotidien de toute organisation. Si vous vous trouvez dépassé par la paperasse et les tâches administratives, je suis là pour vous aider.  Voici un aperçu de mes services RH et de gestion administrative, ainsi que mes tarifs et options de forfaits
 description:  
 featured_image: /images/demo/about.jpg
 ---
