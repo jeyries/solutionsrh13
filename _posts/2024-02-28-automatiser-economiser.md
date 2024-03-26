@@ -3,7 +3,7 @@ title: "Automatiser pour Économiser du Temps et de l'Argent."
 subtitle: 'Lire la suite'
 date: 2024-01-28 00:00:00
 description: "L'automatisation des tâches administratives représente une évolution fondamentale dans la gestion quotidienne des entreprises."
-featured_image: '/images/blog-05-ghosting.jpg'
+featured_image: '/images/blog-05-ghosting.webp'
 ---
 Introduction :
 

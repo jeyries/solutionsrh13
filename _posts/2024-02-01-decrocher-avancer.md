@@ -3,7 +3,7 @@ title: "Décrocher pour Mieux Avancer"
 subtitle: 'Lire la suite'
 date: 2024-02-01 00:00:00
 description: "Comment une Pause Peut Prévenir l'Épuisement Professionnel. Car l'épuisement professionnel est un risque réel."
-featured_image: '/images/blog-02-avancer.jpg'
+featured_image: '/images/blog-02-avancer.webp'
 ---
 Introduction :
 

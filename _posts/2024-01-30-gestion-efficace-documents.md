@@ -3,7 +3,7 @@ title: " La Gestion Efficace des Documents : un Guide Pas à Pas."
 subtitle: 'Lire la suite'
 date: 2024-01-30 00:00:00
 description: "La gestion des documents ne se limite pas à la création d'un système d'organisation, c'est un élément fondamental pour garantir la sécurité des informations et optimiser la productivité."
-featured_image: '/images/blog-04-pme.jpg'
+featured_image: '/images/blog-04-pme.webp'
 ---
 Introduction :
 
