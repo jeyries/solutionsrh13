@@ -10,4 +10,4 @@ Tarification des Services d'Urgence :
 * Taux horaire d'urgence (Administration) : 80 euros
 * Taux horaire d'urgence (RH) : 140 euros
 
-Ne laissez pas les situations d'urgence compromettre le fonctionnement de votre entreprise. Contactez-moi dès maintenant pour obtenir une assistance rapide et efficace. Je suis là pour vous aider à surmonter les défis et à maintenir votre entreprise sur la voie du succès, même dans les moments les plus critiques.
+"Ne permettez pas aux situations d'urgence de perturber le bon fonctionnement de votre entreprise. Contactez-moi dès maintenant pour bénéficier d'une assistance rapide et efficace. Je suis disponible pour vous aider à relever les défis et à maintenir votre entreprise sur la voie du succès, même dans les moments les plus critiques."
