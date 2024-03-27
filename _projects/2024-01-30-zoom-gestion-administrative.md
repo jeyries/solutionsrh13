@@ -22,7 +22,7 @@ Cette solution facilite également les entretiens individuels, les évaluations 
 
 3. Simplifiez la Gestion Quotidienne
 
-La visioconférence proposée par [Votre Nom ou Nom de Votre Entreprise] simplifie également la gestion administrative quotidienne, allant de la gestion des factures aux plannings d'équipe.
+La visioconférence simplifie également la gestion administrative quotidienne, allant de la gestion des factures aux plannings d'équipe.
 
 
 4. Sécurité des Données
