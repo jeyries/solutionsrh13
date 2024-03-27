@@ -1,7 +1,7 @@
 ---
 title: 'Gestion RH et Administrative.'
 subtitle: 'Lire la suite'
-date: 2024-01-30 00:00:00
+date: 2024-01-29 00:00:00
 description: La gestion administrative, parfois lourde et stressante, peut avoir un impact direct sur la santé financière de votre entreprise. Des processus complexes peuvent surgir, générant des problèmes. Il est crucial de simplifier et d'améliorer ces aspects pour alléger les coûts et apaiser les tensions financières.
 featured_image: '/images/work-02-dossiers.webp'
 ---
