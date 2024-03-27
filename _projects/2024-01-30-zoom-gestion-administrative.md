@@ -3,7 +3,7 @@ title: 'Simplifiez Votre Gestion Administrative avec la Visioconférence'
 subtitle: 'Lire la suite'
 date: 2024-01-30 00:00:00
 description: Dans l'ère du travail à distance, maintenir une gestion administrative efficace est crucial pour le succès de toute entreprise. La visioconférence offre une solution pratique et efficace pour gérer les tâches administratives à distance, facilitant ainsi le fonctionnement fluide de votre entreprise.
-featured_image: '/images/work-05-sablier.webp'
+featured_image: '/images/work-05-zoom.webp'
 ---
 
 
