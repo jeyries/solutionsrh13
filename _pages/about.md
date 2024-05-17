@@ -1,5 +1,5 @@
 ---
-title: A propos de moi
+title: À propos de moi
 subtitle: Sandrine FABRE
 description: Sandrine FABRE
 featured_image: /images/demo/about.jpg
