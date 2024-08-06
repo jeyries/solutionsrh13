@@ -1,5 +1,5 @@
 ---
-title: 'Session Découverte '
+title: 'Session Découverte Gratuite'
 subtitle: 'Lire la suite'
 date: 2024-01-31 00:00:00
 description: Engagez-vous pour le Succès de Votre Entreprise. Profitez d'une session découverte gratuite de 30 minutes. Comprenez vos besoins spécifiques, discutez des défis de votre entreprise et recevez des solutions personnalisées...
@@ -13,7 +13,7 @@ featured_image: '/images/work-01-sablier.webp'
 
 Si cette proposition suscite votre intérêt. Inscrivez-vous maintenant pour votre session gratuite de 30 minutes et explorez des solutions taillées pour propulser votre entreprise vers le succès. 
 
-Je reste persuadé que cette session pourrait fournir des solutions pertinentes et ouvrir la voie à une collaboration bénéfique.
+Je reste persuadé que cette session découverte gratuite pourrait fournir des solutions pertinentes et ouvrir la voie à une collaboration bénéfique.
 
 Pour réserver une session, cliquez ici: 
 
