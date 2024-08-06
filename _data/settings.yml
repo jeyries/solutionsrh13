@@ -1,5 +1,5 @@
 basic_settings:
-  site_title: Solutions RH 13
+  site_title: Solutions-RH13
   favicon_image: /images/logo.png
 
 header_settings:
@@ -61,7 +61,7 @@ social_settings:
   soundcloud_url: ''
   spotify_url: ''
   bandcamp_url: ''
-  linkedin_url: 'https://www.linkedin.com/in/sandrinefabresolutionsrh13/'
+  linkedin_url: 'https://www.linkedin.com/in/sandrinefabre/'
 
 color_settings:
   background_color: '#ffffff'
