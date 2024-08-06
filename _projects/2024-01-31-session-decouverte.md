@@ -6,7 +6,7 @@ description: Engagez-vous pour le Succès de Votre Entreprise. Profitez d'une se
 featured_image: '/images/work-01-sablier.webp'
 ---
 
-* À l'issue de la session gratuite, découvrez des options sur mesure pour résoudre les défis spécifiques de votre entreprise.
+* À l'issue de la session découverte gratuite, découvrez des options sur mesure pour résoudre les défis spécifiques de votre entreprise.
 * Ensemble nous analyseront en détail vos besoins, vous fournissant des stratégies adaptées et des solutions concrètes.
 * Cette approche personnalisée vise à optimiser la gestion de vos ressources humaines tout en surmontant les obstacles uniques auxquels votre entreprise fait face.
 
