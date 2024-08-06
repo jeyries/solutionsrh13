@@ -23,7 +23,7 @@ Services en Ressources Humaines :
 
 Taux horaire : 50 euros
 
-## Services de Gestion Administrative :
+## Services en Ressources Humaines :
 
 | ⁠Forfaits  | Durée | Tarif Mensuel    | 
 |-----------|-----------------|------------------|
@@ -36,4 +36,4 @@ Taux horaire : 50 euros
 
 Pour une gestion efficace de vos ressources humaines, contactez-moi dès aujourd'hui pour discuter de vos besoins spécifiques et choisir le forfait qui convient le mieux à votre entreprise. Je suis là pour vous aider à créer un environnement de travail favorable à la réussite de votre entreprise.
 
-<a href="https://calendly.com/solutions-rh13/30min" class="button button--large">Calendly</a>
+<a href="https://calendly.com/solutions-rh13/30min" class="button button--large">Calendrier</a>
