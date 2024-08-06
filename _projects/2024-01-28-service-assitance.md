@@ -5,6 +5,8 @@ date: 2024-01-28 00:00:00
 description: "Vous êtes souvent confronté aux complexités administratives liées, à la gestion des documents, aux administrations, et les rendez-vous médicaux" 
 featured_image: '/images/work-07-particulier.webp'
 ---
+Ce que je vous propose " Assistance Administrative aux Particuliers ":
+
 * Organisation des documents :
     * Élaborons ensemble un système de classement pour vos factures, contrats, etc.
     * Intégrons des outils pratiques pour simplifier la gestion de vos documents.

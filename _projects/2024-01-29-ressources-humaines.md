@@ -31,7 +31,7 @@ Avantages de mes Services :
 Amélioration de l'efficacité : 
 * Améliorez la productivité en optimisant la gestion administrative et des ressources humaines pour une plus grande efficacité.
 
-Je comprends que chaque entreprise a des besoins uniques. C'est pourquoi je m'engage à personnaliser mes services pour répondre précisément à vos exigences. 
+Je comprends que chaque entreprise a des besoins uniques. C'est pourquoi je m'engage à personnaliser mes services pour répondre précisément à vos exigences en Gestion Administrative et Ressources Humaines sur Mesure. 
 Si vous êtes intéressé(e) par une discussion sur la manière dont mes services pourraient bénéficier à votre entreprise, je vous propose de convenir d'un rendez-vous à votre convenance.
 
 
