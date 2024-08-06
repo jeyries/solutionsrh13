@@ -17,5 +17,5 @@ Je reste persuadé que cette session pourrait fournir des solutions pertinentes 
 
 Pour réserver une session, cliquez ici: 
 
-<a href="https://calendly.com/solutions-rh13/30min" class="button button--large">Calendly</a>
+<a href="https://calendly.com/solutions-rh13/30min" class="button button--large">Calendrier</a>
 
