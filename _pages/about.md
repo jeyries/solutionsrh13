@@ -17,7 +17,7 @@ N’hésitez pas à réserver une session découverte gratuite de 30 minutes pou
 
 
 
-Pour réserver une session, cliquez sur ce lien: [Calendly](https://calendly.com/solutions-rh13/30min)
+Pour réserver une session, cliquez sur ce lien: [Calendrier](https://calendly.com/solutions-rh13/30min)
 
 
 
