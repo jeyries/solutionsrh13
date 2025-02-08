@@ -12,7 +12,7 @@ menu_settings:
       url: '/'
     - title: 'Tarifs'
       url: '/tarifs'
-    - title: 'Conseils'
+    - title: 'Blog'
       url: '/blog/'
     - title: 'A propos'
       url: '/about'
